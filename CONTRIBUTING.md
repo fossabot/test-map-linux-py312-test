@@ -26,7 +26,7 @@ See [SECURITY.md](SECURITY.md).
 
 ## How to report an identified bug
 
-Report identified bugs by email to any [core member].
+Report identified bugs by filling a [GitHub bug report issue](https://github.com/whiteprints/test-map-linux-py312-test/issues/new?template=bug_report.yml).
 
 When filing a bug or any other issue, make sure to answer these questions:
 
@@ -41,7 +41,9 @@ and/or steps to reproduce the issue.
 
 ## How to request a feature
 
-Request features by email to [core members].
+Request a feature by [opening a discussion](https://github.com/whiteprints/test-map-linux-py312-test/discussions/categories/ideas)
+
+Once the enhancement has been discussed, fill a [GitHub feature issue](https://github.com/whiteprints/test-map-linux-py312-test/issues/new?template=feature_request.yml).
 
 ## How to report a problem
 
@@ -182,10 +184,17 @@ can install [pre-commit] as a Git hook by running the following command:
 uvx pre-commit install
 ```
 
-It is recommended to contact [core members] before starting work on anything. This
-will allow a chance to talk it over with the owners and validate your approach.
+Ensure that your contribution is resolving a known [issue]. If not, please
+create an associated [issue] first.
 
-Once your contribution is ready ask one of the [core members] to merge it on
-the main branch.
+Once your code and your issue are ready, create a [GitHub] [Pull Request]
+containing your modification and referencing the associated [issue].
+
+If you don't know or are not sure on how to create a Pull Request, follow
+the tutorial: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request.
+
+[GitHub]: https://github.com/
+[Pull Request]: https://github.com/whiteprints/test-map-linux-py312-test/pulls
+[issue]: https://github.com/whiteprints/test-map-linux-py312-test/issues
 
 [Git]: https://git-scm.com/

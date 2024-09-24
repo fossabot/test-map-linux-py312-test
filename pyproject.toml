@@ -50,6 +50,11 @@ dependencies = [
     "rich-click>=1.8.3",
 ]
 
+urls.changelog = "https://github.com/whiteprints/test-map-linux-py312-test/releases"
+urls.documentation = "https://github.com/whiteprints/test-map-linux-py312-test"
+urls.homepage = "https://github.com/whiteprints/test-map-linux-py312-test"
+urls.issues = "https://github.com/whiteprints/test-map-linux-py312-test/issues"
+urls.repository = "https://github.com/whiteprints/test-map-linux-py312-test"
 scripts.test-map-linux-py312-test = "test_map_linux_py312_test.cli.entrypoint:test_map_linux_py312_test"
 
 [tool.uv]
