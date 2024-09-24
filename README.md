@@ -17,9 +17,13 @@ SPDX-License-Identifier: MIT OR Apache-2.0
         <a href="https://www.python.org/"><img alt="Python badge" src="https://img.shields.io/badge/Python->=3.12-306998.svg?logo=Python&logoColor=ffd43b"/></a>
         <a href="https://spdx.org/licenses"><img alt="license badge" src="https://img.shields.io/badge/📝_License-MIT OR Apache--2.0-4CAF50.svg"/></a>
         <a href="https://spdx.dev/"><img alt="SPDX" src="https://img.shields.io/badge/SPDX-compliant-0080FF.svg?logo=SPDX"/></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fwhiteprints%2Ftest-map-linux-py312-test?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwhiteprints%2Ftest-map-linux-py312-test.svg?type=shield"/></a>
         <a href="https://www.contributor-covenant.org/version/2/1/code_of_conduct/"><img alt="contributor covenant badge" src="https://img.shields.io/badge/Contributor_Covenant-2.1-4BAAAA.svg?logo=contributorcovenant"/></a>
     </p>
 </div>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwhiteprints%2Ftest-map-linux-py312-test.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwhiteprints%2Ftest-map-linux-py312-test?ref=badge_large)
 
 ## Table of contents
 
