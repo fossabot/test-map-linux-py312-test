@@ -16,6 +16,7 @@ maxdepth: 1
 ---
 
 Quickstart <quickstart>
+Command Line Interface <usage>
 Reference <autoapi/index>
 Security <SECURITY>
 License <license>

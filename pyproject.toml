@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2024 Romain Brault <mail@romainbrault.com>
+# SPDX-FileCopyrightText: © 2024 Romain Brault <mail@romainbrault.com>
 #
 # SPDX-License-Identifier: MIT OR Apache-2.0
 
@@ -15,7 +15,6 @@ keywords = [
     "Python",
 ]
 license = "MIT OR Apache-2.0"
-
 license-files.paths = [
     "LICENSES/MIT.txt",
     "LICENSES/Apache-2.0.txt",
@@ -45,14 +44,19 @@ dynamic = [
     "readme",
     "version",
 ]
-dependencies = [  ]
+dependencies = [
+    "beartype>=0.18.5",
+    "python-dotenv>=1.0.1",
+    "rich-click>=1.8.3",
+]
+
+scripts.test-map-linux-py312-test = "test_map_linux_py312_test.cli.entrypoint:test_map_linux_py312_test"
 
 [tool.uv]
 managed = true
 dev-dependencies = [
     "scalene>=1.5.19",
     "pynvim>=0.4.3",
-    "beartype>=0.18.5",
     "hypothesis>=6.110.1",
     "pylint>=3.2.6",
     "pytest>=8.3.2",

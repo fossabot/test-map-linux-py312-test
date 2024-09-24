@@ -17,6 +17,7 @@ myst_heading_anchors = 3
 extensions = [
     "autoapi.extension",
     "myst_parser",
+    "sphinx_click",
     "sphinx_copybutton",
     "sphinx.ext.autodoc",
     "sphinx.ext.autosummary",
